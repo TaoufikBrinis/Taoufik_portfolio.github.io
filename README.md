@@ -43,7 +43,7 @@ Applied statistical testing and K-means clustering to prove referral channels co
 ## 📫 Let's Connect
 
 **Email:** taoufik.brinis@gmail.com  
-**LinkedIn:** [linkedin.com/in/taoufik-brinis-815b39338](https://linkedin.com/in/taoufik-brinis-815b39338)  
+**LinkedIn:** [linkedin.com/in/taoufik-brinis-815b39338](https://linkedin.com/in/taoufik-brinis-1b185a211)  
 **Location:** Basel, Switzerland
 
 ---
