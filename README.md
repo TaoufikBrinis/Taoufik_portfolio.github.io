@@ -233,14 +233,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 ## 💼 Professional Highlights
 
 <table>
-<tr>
-<td width="33%" align="center">
 
-**🎯 90% R²**  
-ML Model Accuracy  
-*Predictive Analytics*
-
-</td>
 <td width="33%" align="center">
 
 **📊 6.0/6.0**  
@@ -264,13 +257,7 @@ IT Consulting
 *Process Optimization*
 
 </td>
-<td width="33%" align="center">
 
-**📈 500% Sales Boost**  
-Data Insights  
-*Strategic Analysis*
-
-</td>
 <td width="33%" align="center">
 
 **🤝 Freelance Consultant**  
