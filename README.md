@@ -1,8 +1,23 @@
 <div align="center">
-  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover;">
   
-  <h1>👋 Hi, I'm Taoufik Brinis</h1>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Taoufik%20Brinis&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20|%20ML%20Engineer%20|%20Business%20Consultant&descAlignY=51&descAlign=50" width="100%"/>
   
+  <br><br>
+  
+  <!-- Profile Picture with Animation -->
+  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+  
+  <br><br>
+  
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=Business+%26+Data+Analyst;Machine+Learning+Engineer;IT+Consultant;Multilingual+Problem+Solver" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Social Badges -->
   <p>
     <a href="mailto:taoufik.brinis@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -11,136 +26,285 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/TaoufikBrinis">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="tel:+41782189693">
+      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
     </a>
   </p>
+  
+  <!-- Stats Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-Basel%2C%20Switzerland-blue?style=flat-square&logo=google-maps" alt="Location"/>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status"/>
+    <img src="https://komarev.com/ghpvc/?username=TaoufikBrinis&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  </p>
+  
 </div>
 
 <br>
 
+<!-- About Me Section -->
+<div align="center">
+  
 ## 🎯 About Me
 
-Business Information Systems graduate passionate about **turning data into actionable business insights**. I bridge the gap between technical analytics and strategic decision-making, with expertise in data analysis, machine learning, and IT consulting.
-
-Currently pursuing my **Master's at FHNW Basel** while seeking opportunities in **Business Analysis | Data Analysis | AI Consulting** across Switzerland.
-
-<br>
-
-## 💼 Core Competencies
-
-```
-Analytics & ML          │  Python • SQL • R • Machine Learning • Statistical Analysis
-Business Intelligence   │  Power BI • Tableau • KPI Development • Dashboard Design  
-Consulting & Strategy   │  Requirements Gathering • Agile Delivery • Stakeholder Management
-Languages              │  🇹🇳 Arabic (Native) • 🇬🇧 English (Fluent) • 🇫🇷 French (Fluent) • 🇩🇪 German (B2)
-```
-
-<br>
-
-## 🚀 Featured Projects
-
-### 🛒 Amazon Electronics Sales Analysis & ML Prediction
-
-Built a **predictive model (90% R²)** analyzing pricing strategies and sales drivers. Discovered that moderate discounts outperform deep markdowns by **5×**, and "Best Seller" tags boost sales by **500%**.
-
-**Key Technologies:** `Python` `Scikit-learn` `Pandas` `Random Forest` `Statistical Analysis`
-
-**📊 Impact:** Delivered data-driven pricing strategy recommendations with quantified ROI potential
-
-<div align="left">
-  <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis">
-    <img src="https://img.shields.io/badge/Read_Overview-0366d6?style=for-the-badge&logo=readme&logoColor=white" alt="Overview"/>
-  </a>
-  <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb">
-    <img src="https://img.shields.io/badge/View_Notebook-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/>
-  </a>
 </div>
 
+```diff
++ Business Information Technology graduate passionate about turning data into business value
+! Master's student at FHNW Basel | 6.0/6.0 Thesis Graduate
+# Specialized in: Data Analytics • Machine Learning • IT Consulting • Digital Transformation
+```
+
+**🚀 Current Focus:** Seeking Business Analyst | Data Analyst | AI Consulting roles in Switzerland
+
 <br>
 
----
+<!-- What I Do Section with Visual Cards -->
+<div align="center">
 
-### 📊 Customer Behavior & Marketing Channel Optimization
+## 💼 What I Do
 
-Applied **statistical testing and K-means clustering** to prove referral channels convert **42.5% better** than paid ads, enabling strategic marketing budget reallocation.
-
-**Key Technologies:** `Python` `Statistical Testing` `K-means Clustering` `Chi-square & ANOVA`
-
-**📊 Impact:** Provided evidence for reallocating marketing budgets toward high-ROI referral programs
-
-<div align="left">
-  <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics">
-    <img src="https://img.shields.io/badge/Read_Overview-0366d6?style=for-the-badge&logo=readme&logoColor=white" alt="Overview"/>
-  </a>
-  <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb">
-    <img src="https://img.shields.io/badge/View_Notebook-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/>
-  </a>
 </div>
-
-<br>
-
----
-
-<br>
-
-## 🎓 Education & Certifications
 
 <table>
-  <tr>
-    <td><b>🎓 M.Sc. Business Information Systems</b></td>
-    <td>FHNW Olten (In Progress)</td>
-  </tr>
-  <tr>
-    <td><b>🎓 B.Sc. Business Information Technology</b></td>
-    <td>FHNW Basel | <b>Thesis: 6.0/6.0</b></td>
-  </tr>
-  <tr>
-    <td><b>📜 IBM Product Owner Certificate</b></td>
-    <td>In Progress (2025)</td>
-  </tr>
-  <tr>
-    <td><b>📜 Google Data Analytics</b></td>
-    <td>Coursera (2023)</td>
-  </tr>
-  <tr>
-    <td><b>📜 Geiger Cybersecurity Defender</b></td>
-    <td>FHNW (2023)</td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 📊 Analytics & Data Science
+- **Languages:** Python, SQL, R
+- **ML/AI:** Scikit-learn, TensorFlow
+- **Statistics:** Hypothesis Testing, A/B Testing
+- **Modeling:** Regression, Classification, Clustering
+
+</td>
+<td width="50%">
+
+### 📈 Business Intelligence
+- **Visualization:** Power BI, Tableau
+- **Tools:** Excel (Advanced), DAX
+- **Analytics:** KPI Development, Dashboards
+- **Reporting:** Executive Presentations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤝 Consulting & Strategy
+- **Skills:** Requirements Gathering
+- **Methodologies:** Agile, Scrum (IBM Certified)
+- **Management:** Stakeholder Coordination
+- **Analysis:** Business Process Optimization
+
+</td>
+<td width="50%">
+
+### 🌍 Languages
+- 🇹🇳 **Arabic** - Native
+- 🇬🇧 **English** - Fluent
+- 🇫🇷 **French** - Fluent
+- 🇩🇪 **German** - B2
+
+</td>
+</tr>
 </table>
 
 <br>
 
-## 🛠️ Technical Skills
+<!-- Featured Projects with Better Styling -->
+<div align="center">
+  
+## 🚀 Featured Projects
+
+</div>
+
+<!-- Project 1 -->
+<details open>
+<summary><h3>🛒 Amazon Electronics Sales Analysis & ML Prediction</h3></summary>
+
+<br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Accuracy-90%25%20R²-blue?style=for-the-badge" alt="Accuracy"/>
+  <img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge" alt="Impact"/>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<br>
+
+Built a **predictive model (90% R²)** analyzing pricing strategies and sales drivers in Amazon's electronics marketplace.
+
+#### 🎯 Key Discoveries
+- ✅ Moderate discounts (10-20%) drive **5× higher sales** than deep markdowns
+- ✅ "Best Seller" tags boost sales by **500%**
+- ✅ Social proof outperforms aggressive pricing
+- ✅ Category-level insights for strategic positioning
+
+#### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+#### 📊 Business Impact
+> *Delivered actionable pricing strategy recommendations with quantified ROI potential for e-commerce optimization*
+
+<div align="center">
+  <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis">
+    <img src="https://img.shields.io/badge/📖_Read_Full_Overview-0366d6?style=for-the-badge&logo=readme&logoColor=white" alt="Overview"/>
+  </a>
+  <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb">
+    <img src="https://img.shields.io/badge/💻_View_Interactive_Notebook-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/>
+  </a>
+</div>
+
+</details>
+
+<br>
+
+<!-- Project 2 -->
+<details open>
+<summary><h3>📊 Customer Behavior & Marketing Channel Optimization</h3></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Conversion-42.5%25-blue?style=for-the-badge" alt="Conversion"/>
+  <img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge" alt="Impact"/>
+</div>
+
+<br>
+
+Applied **statistical testing and K-means clustering** to optimize marketing spend and identify high-value customer segments.
+
+#### 🎯 Key Discoveries
+- ✅ Referral channels convert **42.5% better** than paid ads
+- ✅ Traffic volume ≠ quality (data-driven proof)
+- ✅ Statistical validation (Chi-square, ANOVA)
+- ✅ Customer segmentation for targeted campaigns
+
+#### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical_Testing-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clustering-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+#### 📊 Business Impact
+> *Enabled strategic marketing budget reallocation from paid ads to high-ROI referral programs*
+
+<div align="center">
+  <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics">
+    <img src="https://img.shields.io/badge/📖_Read_Full_Overview-0366d6?style=for-the-badge&logo=readme&logoColor=white" alt="Overview"/>
+  </a>
+  <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb">
+    <img src="https://img.shields.io/badge/💻_View_Interactive_Notebook-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/>
+  </a>
+</div>
+
+</details>
+
+<br><br>
+
+<!-- GitHub Stats -->
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=TaoufikBrinis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoufikBrinis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
 <br>
 
-## 📫 Let's Connect
-
+<!-- Education Section -->
 <div align="center">
 
-**📧 Email:** taoufik.brinis@gmail.com  
+## 🎓 Education & Certifications
+
+</div>
+
+| Degree/Certificate | Institution | Year | Highlight |
+|:---|:---|:---:|:---|
+| 🎓 **M.Sc. Business Information Systems** | FHNW Olten | 2025-Present | Focus: AI Innovation & IT Consulting |
+| 🎓 **B.Sc. Business Information Technology** | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0** ⭐ |
+| 📜 **IBM Product Owner Certificate** | IBM | 2025 | In Progress |
+| 📜 **Google Data Analytics** | Coursera | 2023 | ✅ Completed |
+| 📜 **Geiger Cybersecurity Defender** | FHNW | 2023 | ✅ Completed |
+
+<br>
+
+<!-- Tech Stack with Icons -->
+<div align="center">
+
+## 🛠️ Technology Stack
+
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+[![Taoufik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TaoufikBrinis&theme=tokyo-night&hide_border=true)](https://github.com/TaoufikBrinis)
+
+</div>
+
+<br>
+
+<!-- Contact Section -->
+<div align="center">
+
+## 📫 Let's Connect & Collaborate
+
+<img src="https://img.shields.io/badge/Open_to-Business_Analyst_|_Data_Analyst_|_AI_Consulting-success?style=for-the-badge" alt="Open to Opportunities"/>
+
+<br><br>
+
+**📧 Email:** [taoufik.brinis@gmail.com](mailto:taoufik.brinis@gmail.com)  
 **💼 LinkedIn:** [Taoufik Brinis](https://linkedin.com/in/taoufik-brinis-1b185a211)  
+**🐙 GitHub:** [@TaoufikBrinis](https://github.com/TaoufikBrinis)  
 **📍 Location:** Basel, Switzerland  
 
-<br>
-
-### 💡 *Open to Business Analyst, Data Analyst, and AI Consulting opportunities in Switzerland*
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TaoufikBrinis&color=0366d6&style=for-the-badge)
+### 💡 *"Passionate about turning data into business impact through analytics and AI"*
+
+<br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
