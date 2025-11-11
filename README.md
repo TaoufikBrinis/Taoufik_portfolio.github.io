@@ -227,61 +227,61 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <br>
 
-<!-- Experience Highlights Section - NEW! -->
+<!-- Professional Highlights Section - CENTERED! -->
 <div align="center">
 
 ## 💼 Professional Highlights
-
-</div>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🎯 90% R²
-**ML Model Accuracy**  
-<sub>Predictive Analytics</sub>
+**🎯 90% R²**  
+ML Model Accuracy  
+*Predictive Analytics*
 
 </td>
 <td width="33%" align="center">
 
-### 📊 6.0/6.0
-**Thesis Grade**  
-<sub>Perfect Academic Score</sub>
+**📊 6.0/6.0**  
+Thesis Grade  
+*Perfect Academic Score*
 
 </td>
 <td width="33%" align="center">
 
-### 🌍 4 Languages
-**Multilingual**  
-<sub>AR • EN • FR • DE</sub>
+**🌍 4 Languages**  
+Multilingual  
+*AR • EN • FR • DE*
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 
-### 🚀 15% Cost Reduction
-**IT Consulting**  
-<sub>Process Optimization</sub>
+**🚀 15% Cost Reduction**  
+IT Consulting  
+*Process Optimization*
 
 </td>
 <td width="33%" align="center">
 
-### 📈 500% Sales Boost
-**Data Insights**  
-<sub>Strategic Analysis</sub>
+**📈 500% Sales Boost**  
+Data Insights  
+*Strategic Analysis*
 
 </td>
 <td width="33%" align="center">
 
-### 🤝 Freelance Consultant
-**3+ Years**  
-<sub>Business & Data Analytics</sub>
+**🤝 Freelance Consultant**  
+3+ Years  
+*Business & Data Analytics*
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -316,7 +316,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <br>
 
-<!-- What Sets Me Apart Section - NEW! -->
+<!-- What Sets Me Apart Section with CODE STYLE (Creative!) -->
 <div align="center">
 
 ## ⭐ What Sets Me Apart
