@@ -17,14 +17,14 @@ Currently pursuing my Master's at FHNW Basel while seeking opportunities in **Bu
 
 ## 📊 Featured Projects
 
-### [Amazon Electronics Sales Analysis & ML Prediction](./AMAZON_ELECTRONICS_SALES_ANALYSIS_PROJECT.ipynb)
+### [Amazon Electronics Sales Analysis & ML Prediction](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
 Built a predictive model (90% R²) analyzing pricing strategies and sales drivers. Discovered that moderate discounts outperform deep markdowns by 5×, and "Best Seller" tags boost sales by 500%.
 
 **Tech Stack:** Python • Scikit-learn • Pandas • Random Forest
 
 ---
 
-### [Customer Behavior & Marketing Channel Optimization](./Customer_data.ipynb)
+### [Customer Behavior & Marketing Channel Optimization](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
 Applied statistical testing and K-means clustering to prove referral channels convert 42.5% better than paid ads, enabling strategic marketing budget reallocation.
 
 **Tech Stack:** Python • Statistical Testing • K-means Clustering • Data Visualization
