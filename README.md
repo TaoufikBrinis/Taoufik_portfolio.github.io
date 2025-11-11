@@ -28,9 +28,6 @@
     <a href="https://github.com/TaoufikBrinis">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="tel:+41782189693">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-    </a>
   </p>
   
   <!-- Stats Badges -->
@@ -53,7 +50,8 @@
 
 ```diff
 + Business Information Technology graduate passionate about turning data into business value
-! Master's student at FHNW Basel | 6.0/6.0 Thesis Graduate
+! Currently pursuing Master's in Business Information Systems at FHNW Basel
+# Thesis Achievement: 6.0/6.0 Perfect Score
 # Specialized in: Data Analytics • Machine Learning • IT Consulting • Digital Transformation
 ```
 
@@ -74,7 +72,7 @@
 
 ### 📊 Analytics & Data Science
 - **Languages:** Python, SQL, R
-- **ML/AI:** Scikit-learn, TensorFlow
+- **ML/AI:** Scikit-learn, Statistical Modeling
 - **Statistics:** Hypothesis Testing, A/B Testing
 - **Modeling:** Regression, Classification, Clustering
 
@@ -212,18 +210,6 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <br><br>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaoufikBrinis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoufikBrinis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
-<br>
-
 <!-- Education Section -->
 <div align="center">
 
@@ -234,10 +220,68 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 | Degree/Certificate | Institution | Year | Highlight |
 |:---|:---|:---:|:---|
 | 🎓 **M.Sc. Business Information Systems** | FHNW Olten | 2025-Present | Focus: AI Innovation & IT Consulting |
-| 🎓 **B.Sc. Business Information Technology** | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0** ⭐ |
-| 📜 **IBM Product Owner Certificate** | IBM | 2025 | In Progress |
+| 🎓 **B.Sc. Business Information Technology** | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0** ⭐ Perfect Score |
+| 📜 **IBM Product Owner Certificate** | IBM | 2025 | In Progress - Agile & Product Management |
 | 📜 **Google Data Analytics** | Coursera | 2023 | ✅ Completed |
 | 📜 **Geiger Cybersecurity Defender** | FHNW | 2023 | ✅ Completed |
+
+<br>
+
+<!-- Experience Highlights Section - NEW! -->
+<div align="center">
+
+## 💼 Professional Highlights
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 90% R²
+**ML Model Accuracy**  
+<sub>Predictive Analytics</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 📊 6.0/6.0
+**Thesis Grade**  
+<sub>Perfect Academic Score</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🌍 4 Languages
+**Multilingual**  
+<sub>AR • EN • FR • DE</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🚀 15% Cost Reduction
+**IT Consulting**  
+<sub>Process Optimization</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 📈 500% Sales Boost
+**Data Insights**  
+<sub>Strategic Analysis</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🤝 Freelance Consultant
+**3+ Years**  
+<sub>Business & Data Analytics</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -256,7 +300,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -272,14 +316,37 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <br>
 
-<!-- Activity Graph -->
+<!-- What Sets Me Apart Section - NEW! -->
 <div align="center">
 
-## 📈 Contribution Activity
-
-[![Taoufik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TaoufikBrinis&theme=tokyo-night&hide_border=true)](https://github.com/TaoufikBrinis)
+## ⭐ What Sets Me Apart
 
 </div>
+
+```python
+class TaoufikBrinis:
+    def __init__(self):
+        self.role = "Business & Data Analyst"
+        self.education = "MSc Student @ FHNW | 6.0/6.0 Thesis Graduate"
+        self.languages = ["Arabic", "English", "French", "German"]
+        self.expertise = [
+            "Data Analytics & ML",
+            "Business Intelligence",
+            "IT Consulting",
+            "Stakeholder Management"
+        ]
+    
+    def unique_value(self):
+        return """
+        🎯 Bridge between Business & Technology
+        📊 Data-Driven Decision Making
+        🌍 Multilingual & Multicultural
+        🚀 Proven Track Record of Impact
+        """
+    
+    def current_goal(self):
+        return "Seeking roles in Business Analysis | Data Analysis | AI Consulting"
+```
 
 <br>
 
@@ -295,8 +362,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 **📧 Email:** [taoufik.brinis@gmail.com](mailto:taoufik.brinis@gmail.com)  
 **💼 LinkedIn:** [Taoufik Brinis](https://linkedin.com/in/taoufik-brinis-1b185a211)  
 **🐙 GitHub:** [@TaoufikBrinis](https://github.com/TaoufikBrinis)  
-**📍 Location:** Basel, Switzerland  
-
+**📍 Location:** Basel, Switzerland
 
 <br>
 
