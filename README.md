@@ -1,6 +1,7 @@
-
+<div align="center">
+  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="150" style="border-radius: 50%; border: 3px solid #0366d6; object-fit: cover;">
+</div>
 # Hi, I'm Taoufik 👋
-<img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="150" align="right" style="border-radius: 50%;">
 
 Business Information Systems graduate passionate about turning data into actionable business insights. I bridge the gap between technical analytics and strategic decision-making, with expertise in **data analysis, machine learning, and IT consulting**.
 
