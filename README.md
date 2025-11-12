@@ -6,7 +6,7 @@
   <br><br>
   
   <!-- Profile Picture with Animation -->
-  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png?raw=true" alt="Taoufik Brinis" width="180" height="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3); background: white;">
+  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile1.png" alt="Taoufik Brinis" width="180" height="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3); background: white;">
   
   <br><br>
   
