@@ -304,37 +304,43 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <br>
 
-<!-- What Sets Me Apart Section with CODE STYLE (Creative!) -->
+<!-- What Sets Me Apart Section - CLEAN VERSION (No code block!) -->
 <div align="center">
 
 ## ⭐ What Sets Me Apart
 
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
 
-```python
-class TaoufikBrinis:
-    def __init__(self):
-        self.role = "Business & Data Analyst"
-        self.education = "MSc Student @ FHNW | 6.0/6.0 Thesis Graduate"
-        self.languages = ["Arabic", "English", "French", "German"]
-        self.expertise = [
-            "Data Analytics & ML",
-            "Business Intelligence",
-            "IT Consulting",
-            "Stakeholder Management"
-        ]
-    
-    def unique_value(self):
-        return """
-        🎯 Bridge between Business & Technology
-        📊 Data-Driven Decision Making
-        🌍 Multilingual & Multicultural
-        🚀 Proven Track Record of Impact
-        """
-    
-    def current_goal(self):
-        return "Seeking roles in Business Analysis | Data Analysis | AI Consulting"
-```
+### 🎯 Business-Tech Bridge
+Unique ability to translate complex technical concepts into business value and strategic insights
+
+</td>
+<td width="50%" align="center">
+
+### 📊 Data-Driven Mindset
+Proven track record of turning raw data into actionable recommendations with measurable ROI
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🌍 Multicultural Advantage
+Fluent in 4 languages enabling effective collaboration across diverse, international teams
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 Impact-Focused
+Delivered tangible results: 90% model accuracy, 15% cost reduction, 500% sales improvement
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
