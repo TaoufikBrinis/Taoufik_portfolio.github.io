@@ -6,7 +6,7 @@
   <br><br>
   
   <!-- Profile Picture with Animation -->
-  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile1.png" alt="Taoufik Brinis" width="180" height="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3); background: white;">
+  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
   
   <br><br>
   
@@ -114,36 +114,42 @@
 <!-- Featured Projects with Better Styling -->
 <div align="center">
   
-🚀 Featured Projects
+## 🚀 Featured Projects
+
 </div>
+
 <!-- Project 1 -->
 <details open>
 <summary><h3>🛒 Amazon Electronics Sales Analysis & ML Prediction</h3></summary>
+
 <br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Accuracy-90%25%20R²-blue?style=for-the-badge" alt="Accuracy"/>
   <img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge" alt="Impact"/>
 </div>
+
 <br>
-Built a predictive model (90% R²) analyzing pricing strategies and sales drivers in Amazon's electronics marketplace.
-🎯 Key Discoveries
 
-✅ Moderate discounts (10-20%) drive 5× higher sales than deep markdowns
-✅ "Best Seller" tags boost sales by 500%
-✅ Social proof outperforms aggressive pricing
-✅ Category-level insights for strategic positioning
+Built a **predictive model (90% R²)** analyzing pricing strategies and sales drivers in Amazon's electronics marketplace.
 
-🛠️ Tech Stack
+#### 🎯 Key Discoveries
+- ✅ Moderate discounts (10-20%) drive **5× higher sales** than deep markdowns
+- ✅ "Best Seller" tags boost sales by **500%**
+- ✅ Social proof outperforms aggressive pricing
+- ✅ Category-level insights for strategic positioning
+
+#### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-📊 Business Impact
 
-Delivered actionable pricing strategy recommendations with quantified ROI potential for e-commerce optimization
+#### 📊 Business Impact
+> *Delivered actionable pricing strategy recommendations with quantified ROI potential for e-commerce optimization*
 
 <div align="center">
   <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis">
@@ -153,36 +159,43 @@ Delivered actionable pricing strategy recommendations with quantified ROI potent
     <img src="https://img.shields.io/badge/📓_View_Interactive_Notebook-E65100?style=for-the-badge&logoColor=white" alt="Notebook"/>
   </a>
 </div>
+
 </details>
+
 <br>
+
 <!-- Project 2 -->
 <details open>
 <summary><h3>📊 Customer Behavior & Marketing Channel Optimization</h3></summary>
+
 <br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Conversion-42.5%25-blue?style=for-the-badge" alt="Conversion"/>
   <img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge" alt="Impact"/>
 </div>
+
 <br>
-Applied statistical testing and K-means clustering to optimize marketing spend and identify high-value customer segments.
-🎯 Key Discoveries
 
-✅ Referral channels convert 42.5% better than paid ads
-✅ Traffic volume ≠ quality (data-driven proof)
-✅ Statistical validation (Chi-square, ANOVA)
-✅ Customer segmentation for targeted campaigns
+Applied **statistical testing and K-means clustering** to optimize marketing spend and identify high-value customer segments.
 
-🛠️ Tech Stack
+#### 🎯 Key Discoveries
+- ✅ Referral channels convert **42.5% better** than paid ads
+- ✅ Traffic volume ≠ quality (data-driven proof)
+- ✅ Statistical validation (Chi-square, ANOVA)
+- ✅ Customer segmentation for targeted campaigns
+
+#### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistical_Testing-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clustering-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
-📊 Business Impact
 
-Enabled strategic marketing budget reallocation from paid ads to high-ROI referral programs
+#### 📊 Business Impact
+> *Enabled strategic marketing budget reallocation from paid ads to high-ROI referral programs*
 
 <div align="center">
   <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics">
@@ -192,7 +205,9 @@ Enabled strategic marketing budget reallocation from paid ads to high-ROI referr
     <img src="https://img.shields.io/badge/📓_View_Interactive_Notebook-E65100?style=for-the-badge&logoColor=white" alt="Notebook"/>
   </a>
 </div>
+
 </details>
+
 <br><br>
 
 <!-- Education Section -->
@@ -218,37 +233,38 @@ Enabled strategic marketing budget reallocation from paid ads to high-ROI referr
 ## 💼 Professional Highlights
 
 <table>
-
+<tr>
 <td width="33%" align="center">
-
-**📊 6.0/6.0**  
-Thesis Grade  
-*Perfect Academic Score*
-
+<h3>🎯 90% R²</h3>
+<b>ML Model Accuracy</b><br>
+<i>Predictive Analytics</i>
 </td>
 <td width="33%" align="center">
-
-**🌍 4 Languages**  
-Multilingual  
-*AR • EN • FR • DE*
-
+<h3>📊 6.0/6.0</h3>
+<b>Thesis Grade</b><br>
+<i>Perfect Academic Score</i>
+</td>
+<td width="33%" align="center">
+<h3>🌍 4 Languages</h3>
+<b>Multilingual</b><br>
+<i>AR • EN • FR • DE</i>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
-
-**🚀 15% Cost Reduction**  
-IT Consulting  
-*Process Optimization*
-
+<h3>🚀 15% Cost Reduction</h3>
+<b>IT Consulting</b><br>
+<i>Process Optimization</i>
 </td>
-
 <td width="33%" align="center">
-
-**🤝 Freelance Consultant**  
-3+ Years  
-*Business & Data Analytics*
-
+<h3>📈 500% Sales Boost</h3>
+<b>Data Insights</b><br>
+<i>Strategic Analysis</i>
+</td>
+<td width="33%" align="center">
+<h3>🤝 Freelance Consultant</h3>
+<b>3+ Years</b><br>
+<i>Business & Data Analytics</i>
 </td>
 </tr>
 </table>
