@@ -6,7 +6,7 @@
   <br><br>
   
   <!-- Profile Picture with Animation -->
-  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile.jpg.png" alt="Taoufik Brinis" width="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+  <img src="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/profile1.png" alt="Taoufik Brinis" width="180" style="border-radius: 50%; border: 4px solid #0366d6; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
   
   <br><br>
   
@@ -234,11 +234,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h3>🎯 90% R²</h3>
-<b>ML Model Accuracy</b><br>
-<i>Predictive Analytics</i>
-</td>
+
 <td width="33%" align="center">
 <h3>📊 6.0/6.0</h3>
 <b>Thesis Grade</b><br>
@@ -256,11 +252,7 @@ Applied **statistical testing and K-means clustering** to optimize marketing spe
 <b>IT Consulting</b><br>
 <i>Process Optimization</i>
 </td>
-<td width="33%" align="center">
-<h3>📈 500% Sales Boost</h3>
-<b>Data Insights</b><br>
-<i>Strategic Analysis</i>
-</td>
+
 <td width="33%" align="center">
 <h3>🤝 Freelance Consultant</h3>
 <b>3+ Years</b><br>
