@@ -389,16 +389,8 @@ Applied statistical hypothesis testing (Chi-square, ANOVA) and K-means clusterin
 <b>Freelance Consultant</b><br>
 <i>Business & Data Analytics</i>
 </td>
-<td width="33%" align="center">
-<h3>⭐ 90% R² Model</h3>
-<b>ML Accuracy</b><br>
-<i>Predictive Analytics</i>
-</td>
-<td width="33%" align="center">
-<h3>📈 500% Impact</h3>
-<b>Sales Insights</b><br>
-<i>Data-Driven Strategy</i>
-</td>
+
+
 </tr>
 </table>
 
