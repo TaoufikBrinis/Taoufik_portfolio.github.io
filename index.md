@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<div align="center">
+<div align="center" style="margin-bottom: 2rem;">
+
+<img src="/profile1.png" alt="Taoufik Brinis" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 5px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 1rem;">
 
 # Taoufik Brinis
 
@@ -40,7 +42,7 @@ Developed a machine learning model to predict sales drivers in Amazon's electron
 
 **Technical Stack:** Python • Pandas • Scikit-learn • Statistical Analysis • Regression Modeling • Matplotlib • Seaborn
 
-[📊 Project Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis) • [💻 Technical Analysis](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
+[📄 Project Documentation](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis) • [💻 View Full Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
 
 ---
 
@@ -58,7 +60,7 @@ Applied advanced statistical methods and machine learning to analyze customer be
 
 **Technical Stack:** Python • Statistical Testing (Chi-square, ANOVA) • K-means Clustering • Marketing Analytics • A/B Testing
 
-[📊 Project Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics) • [💻 Technical Analysis](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
+[📄 Project Documentation](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics) • [💻 View Full Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
 
 ---
 
