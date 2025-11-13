@@ -25,9 +25,11 @@ Business Information Technology graduate with a **perfect 6.0/6.0 thesis score**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
+---
+
+## 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
 
 <table>
   <tr>
@@ -52,7 +54,7 @@ Developed a machine learning model to predict sales drivers in Amazon's electron
 
 ---
 
-### 📊 Customer Behavior & Marketing ROI Optimization
+## 📊 Customer Behavior & Marketing ROI Optimization
 
 <table>
   <tr>
@@ -74,6 +76,10 @@ Applied advanced statistical methods and machine learning to analyze customer be
 **Tech Stack:** `Python` `Chi-square Testing` `ANOVA` `K-means Clustering` `Marketing Analytics` `A/B Testing`
 
 **→** [📄 Project Documentation](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics) • [💻 View Full Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
+
+---
+
+# END OF PROJECTS
 
 ---
 
