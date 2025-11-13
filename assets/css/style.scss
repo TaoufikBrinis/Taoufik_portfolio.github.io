@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Fix table formatting */
+table {
+  width: 100%;
+  margin: 20px 0;
+  border-collapse: collapse;
+  display: table;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border: 1px solid #e1e4e8;
+  vertical-align: top;
+}
+
+th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+/* Fix text overlapping */
+body {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.6;
+}
+
+/* Better spacing */
+h1, h2, h3 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
