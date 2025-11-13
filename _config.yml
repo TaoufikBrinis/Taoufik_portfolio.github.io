@@ -1,10 +1,6 @@
 title: Taoufik Brinis
 description: Business & Data Analyst | AI Innovation & Digital Transformation
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # Personal Information
 logo: /profile1.png
@@ -17,5 +13,22 @@ linkedin_username: taoufik-brinis-1b185a211
 # Show/Hide Elements
 show_downloads: false
 
-# Additional Settings
+# Jekyll Settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
