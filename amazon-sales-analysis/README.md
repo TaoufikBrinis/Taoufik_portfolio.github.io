@@ -89,4 +89,4 @@ This analysis enables:
 
 ## 💻 [View Full Analysis & Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
 
-## 🏠 [Back to Portfolio](../README.md)
+## 🏠 [Back to Portfolio](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/index.md)
