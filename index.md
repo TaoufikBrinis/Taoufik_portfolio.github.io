@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<div align="center" style="margin-bottom: 2rem;">
-
-<img src="/profile1.png" alt="Taoufik Brinis" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 5px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 1rem;">
-
 # Taoufik Brinis
 
-### Business & Data Analyst | AI Innovation Enthusiast
+**Business & Data Analyst | AI Innovation Enthusiast**
 
 [📧 Email](mailto:taoufik.brinis@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/taoufik-brinis-1b185a211) • [🐙 GitHub](https://github.com/TaoufikBrinis)
 
-**📍 Basel, Switzerland** | **🎯 Open for:** Business Analyst • Data Analyst • AI Consulting Roles
-
-</div>
+📍 Basel, Switzerland | 🎯 Open for: Business Analyst • Data Analyst • AI Consulting Roles
 
 ---
 
-## 👋 About Me
+## About Me
 
 Business Information Technology graduate with a **6.0/6.0 thesis score** and passion for data-driven decision making. Currently pursuing a Master's in Business Information Systems at FHNW Basel, I specialize in transforming complex data into actionable business insights through analytics, visualization, and strategic consulting.
 
@@ -26,9 +20,9 @@ Business Information Technology graduate with a **6.0/6.0 thesis score** and pas
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
+### Amazon Electronics Sales Analysis & Predictive Modeling
 
 **Impact:** 90% Model Accuracy • Strategic Pricing Insights • 5× Sales Optimization
 
@@ -46,7 +40,7 @@ Developed a machine learning model to predict sales drivers in Amazon's electron
 
 ---
 
-### 📊 Customer Behavior & Marketing ROI Optimization
+### Customer Behavior & Marketing ROI Optimization
 
 **Impact:** +42.5% Conversion Lift • Budget Reallocation Strategy • Data-Backed Decisions
 
@@ -64,108 +58,90 @@ Applied advanced statistical methods and machine learning to analyze customer be
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📊 Data Analytics & Science**
+**Data Analytics & Science**
 - Python, SQL, R Programming
 - Statistical Modeling & Hypothesis Testing
 - Machine Learning (Regression, Classification, Clustering)
 - Predictive Analytics & Forecasting
 
-</td>
-<td width="50%" valign="top">
-
-**📈 Business Intelligence**
+**Business Intelligence**
 - Power BI, Tableau Visualization
 - Excel Advanced Analytics & DAX
 - KPI Development & Dashboards
 - Executive Reporting & Storytelling
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤝 Business Consulting**
+**Business Consulting**
 - Requirements Analysis & Stakeholder Management
 - Process Optimization & Strategy
 - Agile/Scrum Methodologies (IBM Certified)
 - Digital Transformation Initiatives
 
-</td>
-<td width="50%" valign="top">
-
-**🌍 Languages**
-- 🇹🇳 Arabic (Native)
-- 🇬🇧 English (Fluent - C1)
-- 🇫🇷 French (Fluent - C1)
-- 🇩🇪 German (Professional - B2)
-
-</td>
-</tr>
-</table>
+**Languages**
+- Arabic (Native)
+- English (Fluent - C1)
+- French (Fluent - C1)
+- German (Professional - B2)
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-| Credential | Institution | Status | Details |
-|-----------|-------------|--------|---------|
-| **M.Sc. Business Information Systems** | FHNW Olten | 2025-Present | AI Innovation & IT Consulting |
-| **B.Sc. Business Information Technology** | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0** ⭐ |
-| **IBM Product Owner Certificate** | IBM | In Progress | Agile & Product Management |
-| **Google Data Analytics Professional** | Coursera | Completed ✅ | Data Analysis & Visualization |
-| **Geiger Cybersecurity Defender** | FHNW | Completed ✅ | Security Fundamentals |
+**M.Sc. Business Information Systems** - FHNW Olten (2025-Present)  
+Focus: AI Innovation & IT Consulting
 
----
+**B.Sc. Business Information Technology** - FHNW Basel (2022-2025)  
+**Thesis: 6.0/6.0** ⭐
 
-## 🛠️ Technical Skills
+**IBM Product Owner Certificate** - IBM (In Progress)  
+Agile & Product Management
 
-**Programming & Database**  
-`Python` `SQL` `R` `Java`
+**Google Data Analytics Professional** - Coursera (Completed)
 
-**Data Science Libraries**  
-`Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `SciPy`
-
-**BI & Visualization**  
-`Power BI` `Tableau` `Excel (Advanced)` `DAX`
-
-**Tools & Platforms**  
-`Git/GitHub` `Jupyter Notebook` `VS Code` `Azure` `Agile/Scrum`
+**Geiger Cybersecurity Defender** - FHNW (Completed)
 
 ---
 
-## ⭐ What Makes Me Different
+## Technical Skills
 
-🎯 **Business-Technical Translator**  
+**Programming & Database:** Python, SQL, R, Java
+
+**Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy
+
+**BI & Visualization:** Power BI, Tableau, Excel (Advanced), DAX
+
+**Tools & Platforms:** Git/GitHub, Jupyter Notebook, VS Code, Azure, Agile/Scrum
+
+---
+
+## What Makes Me Different
+
+**Business-Technical Translator**  
 I don't just analyze data—I translate complex findings into strategic recommendations that drive business decisions and ROI.
 
-📊 **Results-Driven Approach**  
+**Results-Driven Approach**  
 Track record of delivering measurable impact: 90% prediction accuracy, 42.5% conversion improvements, 15% cost reductions.
 
-🌍 **Global Perspective**  
+**Global Perspective**  
 Multilingual professional with cross-cultural communication skills, enabling collaboration across diverse international teams.
 
-🚀 **Continuous Learner**  
+**Continuous Learner**  
 Currently pursuing Master's while staying current with AI/ML trends and business innovation practices.
 
 ---
 
-## 📈 Career Highlights
+## Career Highlights
 
-- 🏆 **Perfect 6.0/6.0** thesis grade on NLP-based customer engagement analysis
-- 💼 **3+ years** freelance consulting experience in business analytics
-- 🎯 **15% cost reduction** through IT process optimization
-- 🌐 **Multilingual** professional fluent in 4 languages
-- 📊 **Published analyst** with practical ML implementations
+- **Perfect 6.0/6.0** thesis grade on NLP-based customer engagement analysis
+- **3+ years** freelance consulting experience in business analytics
+- **15% cost reduction** through IT process optimization
+- **Multilingual** professional fluent in 4 languages
+- **Published analyst** with practical ML implementations
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm actively seeking opportunities where I can leverage data analytics and business strategy to drive meaningful impact. Open to roles in:
 
@@ -183,8 +159,4 @@ I'm actively seeking opportunities where I can leverage data analytics and busin
 
 ---
 
-<div align="center">
-
 *"Transforming data into strategic business value through analytics and innovation"*
-
-</div>
