@@ -29,7 +29,7 @@ Business Information Technology graduate with a **perfect 6.0/6.0 thesis score**
 
 ---
 
-## 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
+# 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
 
 <table>
   <tr>
@@ -50,11 +50,15 @@ Developed a machine learning model to predict sales drivers in Amazon's electron
 
 **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Statistical Analysis` `Regression` `Matplotlib` `Seaborn`
 
-**→** [📄 Project Documentation](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis) • [💻 View Full Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
+<p style="background-color: #f6f8fa; padding: 15px; border-left: 4px solid #0366d6; margin: 20px 0;">
+  <strong>📂 Explore This Project:</strong><br>
+  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis"><strong>📄 Project Documentation</strong></a><br>
+  → <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb"><strong>💻 View Full Code</strong></a>
+</p>
 
 ---
 
-## 📊 Customer Behavior & Marketing ROI Optimization
+# 📊 Customer Behavior & Marketing ROI Optimization
 
 <table>
   <tr>
@@ -75,7 +79,11 @@ Applied advanced statistical methods and machine learning to analyze customer be
 
 **Tech Stack:** `Python` `Chi-square Testing` `ANOVA` `K-means Clustering` `Marketing Analytics` `A/B Testing`
 
-**→** [📄 Project Documentation](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics) • [💻 View Full Code](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
+<p style="background-color: #f6f8fa; padding: 15px; border-left: 4px solid #0366d6; margin: 20px 0;">
+  <strong>📂 Explore This Project:</strong><br>
+  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics"><strong>📄 Project Documentation</strong></a><br>
+  → <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb"><strong>💻 View Full Code</strong></a>
+</p>
 
 ---
 
