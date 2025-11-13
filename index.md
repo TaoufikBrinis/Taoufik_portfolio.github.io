@@ -2,156 +2,187 @@
 layout: default
 ---
 
+<div align="center">
+
 # Taoufik Brinis
 
-**Business & Data Analyst | AI Innovation & Digital Transformation**
+### Business & Data Analyst | AI Innovation Enthusiast
 
 [📧 Email](mailto:taoufik.brinis@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/taoufik-brinis-1b185a211) • [🐙 GitHub](https://github.com/TaoufikBrinis)
 
-**Location:** Basel, Switzerland  
-**Status:** Actively Seeking Business Analyst | Data Analyst | AI Consulting Roles
+**📍 Basel, Switzerland** | **🎯 Open for:** Business Analyst • Data Analyst • AI Consulting Roles
+
+</div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-Business Information Technology graduate with a **perfect 6.0/6.0 thesis score**, passionate about turning data into business value. Currently pursuing Master's in Business Information Systems at FHNW Basel, specializing in Data Analytics, Business Intelligence, IT Consulting, and Digital Transformation.
+Business Information Technology graduate with a **6.0/6.0 thesis score** and passion for data-driven decision making. Currently pursuing a Master's in Business Information Systems at FHNW Basel, I specialize in transforming complex data into actionable business insights through analytics, visualization, and strategic consulting.
 
----
-
-## 💼 What I Do
-
-**📊 Analytics & Data Science**
-- Languages: Python, SQL, R
-- ML/AI: Scikit-learn, Statistical Modeling
-- Statistics: Hypothesis Testing, A/B Testing
-- Modeling: Regression, Classification, Clustering
-
-**📈 Business Intelligence**
-- Visualization: Power BI, Tableau
-- Tools: Excel (Advanced), DAX
-- Analytics: KPI Development, Dashboards
-- Reporting: Executive Presentations
-
-**🤝 Consulting & Strategy**
-- Skills: Requirements Gathering, Stakeholder Management
-- Methodologies: Agile, Scrum (IBM Certified)
-- Analysis: Business Process Optimization
-
-**🌍 Languages**
-- 🇹🇳 Arabic (Native)
-- 🇬🇧 English (Fluent)
-- 🇫🇷 French (Fluent)
-- 🇩🇪 German (B2 Professional)
+**My approach:** Bridge the gap between technical analysis and business strategy to deliver measurable impact.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon Electronics Sales Analysis & ML Prediction
+### 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
 
-**Status:** Completed | **Model Accuracy:** 90% R² | **Business Impact:** High
+**Impact:** 90% Model Accuracy • Strategic Pricing Insights • 5× Sales Optimization
 
-Built a predictive pricing model achieving 90% accuracy to analyze sales drivers in Amazon's electronics marketplace. Identified that moderate discounts (10-20%) generate 5× higher sales than aggressive markdowns, and "Best Seller" tags boost conversions by 500%.
+Developed a machine learning model to predict sales drivers in Amazon's electronics marketplace, uncovering critical insights about pricing psychology and conversion optimization.
 
-**Key Discoveries:**
+**Business Impact:**
+- Moderate discounts (10-20%) drive **5× higher sales** than deep markdowns
+- "Best Seller" badge increases conversions by **500%**
+- Social proof outperforms aggressive pricing strategies
+- Category-specific insights enable targeted optimization
 
-| Finding | Impact | Recommendation |
-|---------|--------|----------------|
-| Moderate discounts (10-20%) | 5× higher sales | Avoid deep markdowns; focus on strategic pricing |
-| "Best Seller" badge effect | +500% sales boost | Prioritize products for bestseller status |
-| Social proof value | Outperforms pricing | Invest in reviews & ratings over discounts |
-| Category positioning | Strategic insights | Tailor approach by product category |
+**Technical Stack:** Python • Pandas • Scikit-learn • Statistical Analysis • Regression Modeling • Matplotlib • Seaborn
 
-**Skills Applied:** Python • Statistical Analysis • Machine Learning (Regression) • Data Visualization • Business Strategy • E-commerce Analytics
-
-**📊 [View Business Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis)** • **💻 [View Technical Notebook](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)**
+[📊 Project Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/amazon-sales-analysis) • [💻 Technical Analysis](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/AMAZON%20ELECTRONICS%20SALES%20ANALYSIS%20PROJECT.ipynb)
 
 ---
 
-### 📊 Customer Behavior & Marketing Channel Optimization
+### 📊 Customer Behavior & Marketing ROI Optimization
 
-**Status:** Completed | **Conversion Lift:** +42.5% | **Business Impact:** High
+**Impact:** +42.5% Conversion Lift • Budget Reallocation Strategy • Data-Backed Decisions
 
-Applied statistical hypothesis testing (Chi-square, ANOVA) and K-means clustering to optimize marketing budget allocation. Discovered referral channels convert 42.5% better than paid advertising, enabling strategic reallocation of marketing spend to high-ROI channels.
+Applied advanced statistical methods and machine learning to analyze customer behavior patterns and optimize marketing spend allocation across channels.
 
-**Key Discoveries:**
+**Business Impact:**
+- Referral channels convert **42.5% better** than paid advertising
+- Identified 3 distinct customer segments for targeted campaigns
+- Validated hypotheses with **95% statistical confidence**
+- Delivered actionable recommendations for marketing budget reallocation
 
-| Finding | Impact | Recommendation |
-|---------|--------|----------------|
-| Referral channel performance | +42.5% conversion | Shift budget from paid ads to referral programs |
-| Traffic vs. Quality paradox | Statistical proof | Prioritize conversion rate over traffic volume |
-| Customer segmentation | 3 distinct groups | Tailor campaigns to segment behaviors |
-| Hypothesis validation | 95% confidence | Data-backed marketing decisions |
+**Technical Stack:** Python • Statistical Testing (Chi-square, ANOVA) • K-means Clustering • Marketing Analytics • A/B Testing
 
-**Skills Applied:** Statistical Testing • Machine Learning (Clustering) • Marketing Analytics • Customer Segmentation • A/B Testing Methodology
+[📊 Project Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics) • [💻 Technical Analysis](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)
 
-**📊 [View Business Overview](https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/customer-analytics)** • **💻 [View Technical Notebook](https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/Customer%20data.ipynb)**
+---
+
+## 💼 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Data Analytics & Science**
+- Python, SQL, R Programming
+- Statistical Modeling & Hypothesis Testing
+- Machine Learning (Regression, Classification, Clustering)
+- Predictive Analytics & Forecasting
+
+</td>
+<td width="50%" valign="top">
+
+**📈 Business Intelligence**
+- Power BI, Tableau Visualization
+- Excel Advanced Analytics & DAX
+- KPI Development & Dashboards
+- Executive Reporting & Storytelling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤝 Business Consulting**
+- Requirements Analysis & Stakeholder Management
+- Process Optimization & Strategy
+- Agile/Scrum Methodologies (IBM Certified)
+- Digital Transformation Initiatives
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 Languages**
+- 🇹🇳 Arabic (Native)
+- 🇬🇧 English (Fluent - C1)
+- 🇫🇷 French (Fluent - C1)
+- 🇩🇪 German (Professional - B2)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education & Certifications
 
-| Degree/Certificate | Institution | Year | Highlight |
-|-------------------|-------------|------|-----------|
-| M.Sc. Business Information Systems | FHNW Olten | 2025-Present | Focus: AI Innovation & IT Consulting |
-| B.Sc. Business Information Technology | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0 Perfect Score** ⭐ |
-| IBM Product Owner Certificate | IBM | 2025 | In Progress - Agile & Product Management |
-| Google Data Analytics | Coursera | 2023 | ✅ Completed |
-| Geiger Cybersecurity Defender | FHNW | 2023 | ✅ Completed |
+| Credential | Institution | Status | Details |
+|-----------|-------------|--------|---------|
+| **M.Sc. Business Information Systems** | FHNW Olten | 2025-Present | AI Innovation & IT Consulting |
+| **B.Sc. Business Information Technology** | FHNW Basel | 2022-2025 | **Thesis: 6.0/6.0** ⭐ |
+| **IBM Product Owner Certificate** | IBM | In Progress | Agile & Product Management |
+| **Google Data Analytics Professional** | Coursera | Completed ✅ | Data Analysis & Visualization |
+| **Geiger Cybersecurity Defender** | FHNW | Completed ✅ | Security Fundamentals |
 
 ---
 
-## 💼 Professional Highlights
+## 🛠️ Technical Skills
 
-- **📊 6.0/6.0** Perfect Thesis Grade
-- **🌍 4 Languages** Multilingual (Arabic, English, French, German B2)
-- **🚀 15% Cost Reduction** IT Consulting Process Optimization
-- **🤝 3+ Years** Freelance Consultant in Business & Data Analytics
+**Programming & Database**  
+`Python` `SQL` `R` `Java`
 
----
+**Data Science Libraries**  
+`Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `SciPy`
 
-## 🛠️ Technology Stack
-
-**Programming & Analytics**  
-Python • SQL • R • Java
-
-**Data Science & ML**  
-Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
-
-**Business Intelligence**  
-Power BI • Tableau • Excel (Advanced) • DAX
+**BI & Visualization**  
+`Power BI` `Tableau` `Excel (Advanced)` `DAX`
 
 **Tools & Platforms**  
-Git • Jupyter • VS Code • Agile/Scrum Methodologies
+`Git/GitHub` `Jupyter Notebook` `VS Code` `Azure` `Agile/Scrum`
 
 ---
 
-## ⭐ What Sets Me Apart
+## ⭐ What Makes Me Different
 
-**🎯 Business-Tech Bridge**  
-Unique ability to translate complex technical concepts into business value and strategic insights
+🎯 **Business-Technical Translator**  
+I don't just analyze data—I translate complex findings into strategic recommendations that drive business decisions and ROI.
 
-**📊 Data-Driven Mindset**  
-Proven track record of turning raw data into actionable recommendations with measurable ROI
+📊 **Results-Driven Approach**  
+Track record of delivering measurable impact: 90% prediction accuracy, 42.5% conversion improvements, 15% cost reductions.
 
-**🌍 Multicultural Advantage**  
-Fluent in 4 languages enabling effective collaboration across diverse, international teams
+🌍 **Global Perspective**  
+Multilingual professional with cross-cultural communication skills, enabling collaboration across diverse international teams.
 
-**🚀 Impact-Focused Delivery**  
-Delivered tangible results: 90% model accuracy, 15% cost reduction, 500% sales improvement
+🚀 **Continuous Learner**  
+Currently pursuing Master's while staying current with AI/ML trends and business innovation practices.
+
+---
+
+## 📈 Career Highlights
+
+- 🏆 **Perfect 6.0/6.0** thesis grade on NLP-based customer engagement analysis
+- 💼 **3+ years** freelance consulting experience in business analytics
+- 🎯 **15% cost reduction** through IT process optimization
+- 🌐 **Multilingual** professional fluent in 4 languages
+- 📊 **Published analyst** with practical ML implementations
 
 ---
 
 ## 📫 Let's Connect
 
-**I'm open to:** Business Analyst | Data Analyst | AI Consulting Roles
+I'm actively seeking opportunities where I can leverage data analytics and business strategy to drive meaningful impact. Open to roles in:
 
-📧 **Email:** [taoufik.brinis@gmail.com](mailto:taoufik.brinis@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/taoufik-brinis-1b185a211](https://linkedin.com/in/taoufik-brinis-1b185a211)  
-🐙 **GitHub:** [github.com/TaoufikBrinis](https://github.com/TaoufikBrinis)  
-📍 **Location:** Basel, Switzerland
+✅ Business Analysis  
+✅ Data Analysis  
+✅ AI/ML Consulting  
+✅ Digital Transformation
+
+**Get in Touch:**
+
+📧 [taoufik.brinis@gmail.com](mailto:taoufik.brinis@gmail.com)  
+💼 [LinkedIn Profile](https://linkedin.com/in/taoufik-brinis-1b185a211)  
+🐙 [GitHub Portfolio](https://github.com/TaoufikBrinis)  
+📍 Basel, Switzerland
 
 ---
 
-*"Passionate about turning data into business impact through analytics and AI"*
+<div align="center">
+
+*"Transforming data into strategic business value through analytics and innovation"*
+
+</div>
