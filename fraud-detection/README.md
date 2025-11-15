@@ -223,7 +223,7 @@ Full project documentation available in [`reports/Analytics_Project_Report.pdf`]
 
 ## 👤 About the Author
 
-**Taoufik Brinis** | Business Analyst & AI Consultant
+**Taoufik Brinis** | Business Analyst & IT Consultant
 
 - 🎓 BSc Business Information Technology, FHNW Basel (Thesis Grade: 6.0/6.0)
 - 🎓 MSc Business Information Systems (AI Innovation Focus) - In Progress
@@ -267,7 +267,6 @@ Interested in implementing similar solutions for your retail operation or other 
 - Team training on fraud detection techniques
 - End-to-end analytics consulting
 
-**Contact me** to discuss how AI can reduce losses and improve customer experience in your business.
 
 ---
 
