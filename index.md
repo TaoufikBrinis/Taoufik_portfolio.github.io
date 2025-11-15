@@ -58,6 +58,42 @@ Developed a machine learning model to predict sales drivers in Amazon's electron
 
 ---
 
+# 🔐 Fraud Detection Machine Learning Pipeline
+
+<table>
+  <tr>
+    <td><strong>Impact</strong></td>
+    <td>498K+ Transactions Analyzed • 4 ML Models Compared • Production-Ready System</td>
+  </tr>
+</table>
+
+Built and evaluated multiple machine learning models to detect fraudulent transactions in retail checkout systems, comparing performance across linear, ensemble, and deep learning approaches.
+
+**Key Technical Achievements:**
+
+| Model | Approach | Key Strength |
+|-------|----------|--------------|
+| Logistic Regression | Linear baseline | Fast inference, interpretable |
+| Random Forest | Ensemble trees | Balanced precision-recall |
+| XGBoost | Gradient boosting | Optimal F1-score performance |
+| Neural Network | Deep learning | Complex pattern detection |
+
+**Business Value:**
+- Comprehensive model evaluation framework for fraud detection
+- Cost-benefit analysis considering false positives vs. false negatives
+- Scalable solution for high-volume transaction monitoring
+- Production-ready deployment recommendations
+
+**Tech Stack:** `Python` `Scikit-learn` `XGBoost` `TensorFlow/Keras` `Pandas` `Statistical Analysis` `Model Comparison`
+
+<p style="background-color: #f6f8fa; padding: 15px; border-left: 4px solid #0366d6; margin: 20px 0;">
+  <strong>📂 Explore This Project:</strong><br>
+  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/fraud-detection"><strong>📄 Project Documentation</strong></a><br>
+  → <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/fraud-detection/Fraud_Detection_Complete_Analysis.ipynb"><strong>💻 View Full Code</strong></a>
+</p>
+
+---
+
 # 📊 Customer Behavior & Marketing ROI Optimization
 
 <table>
