@@ -524,15 +524,9 @@ This project combines my aviation industry knowledge with advanced machine learn
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgments
 
-- Dataset source: Airline passenger satisfaction survey data
+- Dataset source: Kaggle Airline passenger satisfaction survey data
 - Tools: Scikit-learn, LightGBM, Optuna teams for excellent ML frameworks
 - Inspiration: Real-world customer experience challenges in aviation industry
 
