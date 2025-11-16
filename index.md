@@ -60,7 +60,7 @@ Developed an advanced machine learning system achieving **96% accuracy** in pred
 
 <p style="background-color: #f6f8fa; padding: 15px; border-left: 4px solid #0366d6; margin: 20px 0;">
   <strong>📂 Explore This Project:</strong><br>
-  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/airline-satisfaction"><strong>📄 Project Documentation</strong></a><br>
+  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/airline-satisfaction/Aviation%20README.md"><strong>📄 Project Documentation</strong></a><br>
   → <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/airline-satisfaction/Airline_Satisfaction_Analysis_Enhanced.ipynb"><strong>💻 View Full Code</strong></a>
 </p>
 
