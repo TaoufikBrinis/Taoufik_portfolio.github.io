@@ -29,6 +29,43 @@ Business Information Technology graduate with a **perfect 6.0/6.0 thesis score**
 
 ---
 
+# ✈️ Airline Passenger Satisfaction Prediction
+
+<table>
+  <tr>
+    <td><strong>Impact</strong></td>
+    <td>96% Accuracy • 0.99 AUC • Production-Ready ML System • Aviation Industry Focus</td>
+  </tr>
+</table>
+
+Developed an advanced machine learning system achieving **96% accuracy** in predicting airline passenger satisfaction. Leveraged Optuna hyperparameter optimization and compared multiple algorithms (Logistic Regression, Random Forest, LightGBM) to identify key satisfaction drivers and enable proactive customer experience management.
+
+**Key Business Insights:**
+
+| Finding | Impact | Strategic Action |
+|---------|--------|------------------|
+| Customer Loyalty | **Highest satisfaction driver** | Invest in retention programs and loyalty benefits |
+| Travel Class Gap | Business >> Economy satisfaction | Prioritize Economy class service improvements |
+| Service Quality | WiFi & comfort > operational delays | Focus resources on in-flight experience upgrades |
+| Short-Haul Challenge | <1000km flights lower satisfaction | Optimize service delivery for quick turnarounds |
+| Business vs. Leisure | Business travelers more satisfied | Develop leisure-specific offerings and packages |
+
+**Business Value:**
+- Proactive intervention: Identify 96% of at-risk passengers before dissatisfaction
+- Revenue protection through targeted service recovery and retention
+- Data-driven strategy for service improvement investments
+- ROI-focused recommendations across immediate, short-term, and long-term horizons
+
+**Tech Stack:** `Python` `Scikit-learn` `LightGBM` `Optuna` `Pandas` `Statistical Analysis` `Hyperparameter Tuning` `25 Visualizations`
+
+<p style="background-color: #f6f8fa; padding: 15px; border-left: 4px solid #0366d6; margin: 20px 0;">
+  <strong>📂 Explore This Project:</strong><br>
+  → <a href="https://github.com/TaoufikBrinis/Taoufik_portfolio.github.io/tree/main/airline-satisfaction"><strong>📄 Project Documentation</strong></a><br>
+  → <a href="https://nbviewer.org/github/TaoufikBrinis/Taoufik_portfolio.github.io/blob/main/airline-satisfaction/Airline_Satisfaction_Analysis_Enhanced.ipynb"><strong>💻 View Full Code</strong></a>
+</p>
+
+---
+
 # 🛒 Amazon Electronics Sales Analysis & Predictive Modeling
 
 <table>
@@ -219,7 +256,7 @@ Applied advanced statistical methods and machine learning to analyze customer be
     </td>
     <td width="50%" valign="top">
       <h3>📊 Results-Driven Approach</h3>
-      <p>Proven track record: <strong>90% prediction accuracy</strong>, <strong>42.5% conversion improvements</strong>, <strong>15% cost reductions</strong>.</p>
+      <p>Proven track record: <strong>96% prediction accuracy</strong>, <strong>42.5% conversion improvements</strong>, <strong>15% cost reductions</strong>.</p>
     </td>
   </tr>
   <tr>
@@ -240,9 +277,9 @@ Applied advanced statistical methods and machine learning to analyze customer be
 
 - 🏆 **Perfect 6.0/6.0** thesis grade on NLP-based customer engagement analysis
 - 💼 **3+ years** freelance consulting experience in business analytics
-- 🎯 **15% cost reduction** achieved through IT process optimization
+- 🎯 **96% ML accuracy** in airline satisfaction prediction with advanced optimization
 - 🌐 **Multilingual professional** fluent in 4 languages (Arabic, English, French, German)
-- 📊 **Published analyst** with practical machine learning implementations
+- 📊 **Aviation industry expertise** combining aeronautical background with data science
 
 ---
 
